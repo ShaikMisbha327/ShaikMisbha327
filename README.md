@@ -45,17 +45,16 @@ Exciting web development projects and learning new technologies
 
 
 
-## 🚀 About Me  
-
 I love building web apps and solving coding challenges 💻💡  
 
-📚 Currently learning ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) **Express.js**,  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL**  
+📚 Currently learning  
+![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express.js**  
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) **PostgreSQL**  
 
 🔥 Experienced in  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**,  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**,  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React**,  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript**,  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=database&logoColor=white) **SQL**,  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) **Tailwind CSS**  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) **TypeScript**  
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) **SQL**  
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) **Tailwind CSS**  
