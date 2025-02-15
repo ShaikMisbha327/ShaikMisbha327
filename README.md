@@ -1,10 +1,11 @@
-👋 Hi, I'm Shaik Misbha!
-💻 Aspiring Full Stack Developer | 🎯 Passionate about coding | 🚀 Always learning new technologies
+💠 Assalamu Alaikum (Peace be upon you🌺), I'm Shaik Misbha!
+💻 Aspiring Full Stack Developer | 🎯 Passionate about coding | 🚀 Always learning new technologies.....
 
 👀 About Me
-🎓 I have a BSc degree (2024) with 90% (A Grade)
 
-💡 I love building web apps and solving coding challenges
+🎓 I have a BSc degree (2024) with 90% (A Grade) 🏅
+
+💡 I love building web apps and solving coding challenges💻💡
 
 📚 Currently learning Backend Development (Express.js, PostgreSQL)
 
@@ -30,9 +31,9 @@ Exciting web development projects and learning new technologies
 
 📧 Email: [smisbha327@gmail.com]
 
-🔗 LinkedIn: n/shaik-misbha-92a970304
+🔗 LinkedIn: in/shaik-misbha-92a970304
 
-🐙 GitHub: github.com/ShaikMisbha327
+🐙 GitHub: https://github.com/ShaikMisbha327
 
 
 ⚡ Fun Fact
