@@ -48,13 +48,13 @@ Exciting web development projects and learning new technologies
 I love building web apps and solving coding challenges 💻💡  
 
 📚 Currently learning  
-![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express.js**  
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) **PostgreSQL**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="16"/> **Express.js**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="16"/> **PostgreSQL**  
 
 🔥 Experienced in  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**  
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) **TypeScript**  
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) **SQL**  
-![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) **Tailwind CSS**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="10"/> **Python**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="6"/> **JavaScript**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="4"/> **React**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="16"/> **TypeScript**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="16"/> **SQL**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="16"/> **Tailwind CSS**  
