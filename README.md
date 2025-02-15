@@ -15,7 +15,14 @@ I'm currently focusing on backend technologies, including:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16"/> Express.js,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> SQL,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="16"/> PL/SQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="16"/> PL/SQL 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> **Node.js**,  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16"/> **Express.js**,  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/> **PostgreSQL**,  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> **MySQL**,  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Oracle_SQL_Developer_logo.svg" width="16"/> **PL/SQL**  
+
 
 🔥 **Frontend Development Skills**  
 
@@ -58,6 +65,19 @@ I use the following tools for development and collaboration:
 
 ✅ Quiz App – Interactive quiz with multiple questions
 
+✅ **E-commerce Website** (TypeScript, React) 🛒💻 – Product zoom, login, and more  
+
+✅ **Memory Card Game** (JavaScript) 🧠🎮 – Fun interactive game  
+
+✅ **2048 Game** (JavaScript) 🔲🎮 – Classic sliding tile puzzle
+
+✅ **Task Manager App** (JavaScript) 📋✅ – Organize tasks efficiently
+
+✅ **Movie Search App** (React) 🎥🔍 – Search movies easily
+
+✅ **Quiz App** (JavaScript) 📝❓ – Interactive quiz with multiple questions  
+
+
 ⭐️ I’m Looking to Collaborate On
 Open-source projects in JavaScript, Python, React, and SQL
 Exciting web development projects and learning new technologies
@@ -74,6 +94,10 @@ Exciting web development projects and learning new technologies
 ⚡ Fun Fact
 
 🌍 I enjoy learning new things, and in my free time, I watch Pakistani dramas and focus on praying (Namaz) and reading the Quran✨.
+
+🌱 I'm passionate about continuous learning. I love exploring new technologies, and in my free time, I focus on improving my spiritual growth by praying (Namaz) and reading the Quran 📖✨. I believe in staying grounded while growing as a developer. 💻🌟
+
+
 
 
 
