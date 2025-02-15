@@ -28,6 +28,7 @@
 💞️ I’m Looking to Collaborate On
 Open-source projects in JavaScript, Python, React, and SQL
 Exciting web development projects and learning new technologies
+
 📫 How to Reach Me
 
 📧 Email: [smisbha327@gmail.com]
