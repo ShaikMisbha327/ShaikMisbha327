@@ -11,6 +11,7 @@
 📚 Currently learning Backend Development (Express.js, PostgreSQL)
 
 🔥 Experienced in Python, JavaScript, React, TypeScript, SQL, Tailwind CSS
+
 🌟 Projects I’ve Built
 
 ✅ E-commerce Website (TypeScript, React) – Product zoom, login, and more
@@ -25,11 +26,11 @@
 
 ✅ Quiz App – Interactive quiz with multiple questions
 
-💞️ I’m Looking to Collaborate On
+⭐️ I’m Looking to Collaborate On
 Open-source projects in JavaScript, Python, React, and SQL
 Exciting web development projects and learning new technologies
 
-📫 How to Reach Me
+📫 How to Reach Me:
 
 📧 Email: [smisbha327@gmail.com]
 
