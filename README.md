@@ -32,7 +32,7 @@ Exciting web development projects and learning new technologies
 
 📧 Email: [smisbha327@gmail.com]
 
-🔗 LinkedIn: in/shaik-misbha-92a970304
+🔗 LinkedIn: https://www.linkedin.com/in/shaik-misbha-92a970304/
 
 🐙 GitHub: https://github.com/ShaikMisbha327
 
