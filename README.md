@@ -12,11 +12,12 @@
 
 I'm currently focusing on backend technologies, including:  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16"/> Express.js,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/> PostgreSQL,  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16"/> Express.js,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/> PostgreSQL,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16"/> MongoDB.
+
 🔥 **Frontend Development Skills**  
 
 I have hands-on experience in frontend technologies, including  
