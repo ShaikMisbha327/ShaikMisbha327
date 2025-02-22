@@ -73,9 +73,7 @@ Exciting web development projects and learning new technologies
 
 ⚡ Fun Fact
 
-🌱 I'm passionate about continuous learning. I love exploring new technologies, and in my free time, I focus on improving my spiritual growth by praying (Namaz) and reading the Quran 📖✨. I believe in staying grounded while growing as a developer. 💻🌟
-
-
+🌱 I’m passionate about continuous learning and exploring new technologies. I stay updated with the latest trends in development while striving to grow as a developer.
 
 
 
