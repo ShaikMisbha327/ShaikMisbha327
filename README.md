@@ -18,7 +18,6 @@ I'm currently focusing on backend technologies, including:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL, <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16"/> MongoDB.
 
-
 🔥 **Frontend Development Skills**  
 
 I have hands-on experience in frontend technologies, including  
@@ -43,21 +42,6 @@ I use the following tools for development and collaboration:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git,  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/> GitHub
 
-🌟 Projects I’ve Built
-
-✅ **E-commerce Website** (TypeScript, React) 🛒💻 – Product zoom, login, and more  
-
-✅ **Memory Card Game** (JavaScript) 🧠🎮 – Fun interactive game  
-
-✅ **2048 Game** (JavaScript) 🔲🎮 – Classic sliding tile puzzle
-
-✅ **Task Manager App** (JavaScript) 📋✅ – Organize tasks efficiently
-
-✅ **Movie Search App** (React) 🎥🔍 – Search movies easily
-
-✅ **Quiz App** (JavaScript) 📝❓ – Interactive quiz with multiple questions  
-
-
 ⭐️ I’m Looking to Collaborate On
 Open-source projects in JavaScript, Python, React, and SQL
 Exciting web development projects and learning new technologies
@@ -69,7 +53,6 @@ Exciting web development projects and learning new technologies
 🔗 LinkedIn: https://www.linkedin.com/in/shaik-misbha-92a970304/
 
 🐙 GitHub: https://github.com/ShaikMisbha327
-
 
 ⚡ Fun Fact
 
