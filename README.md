@@ -1,4 +1,4 @@
-💠 Assalamu Alaikum (Peace be upon you🌺), I'm Shaik Misbha!
+💠 Assalamu Alaikum (Peace be upon you), I'm Shaik Misbha!
 
 💻 Aspiring Full Stack Developer | 🎯 Passionate about coding | 🚀 Eager to explore new technologies and grow as a developer...
 
