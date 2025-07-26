@@ -1,4 +1,5 @@
-<img src="https://your-uploaded-image-url.com/banner.png" alt="Shaik Misbha Banner" />
+<img src="https://github.com/ShaikMisbha327/ShaikMisbha327/blob/main/banner.png" alt="Shaik Misbha Banner" style="width:100%;"/>
+
 
 💠 **Assalamu Alaikum (Peace be upon you), I'm Shaik Misbha!**
 
