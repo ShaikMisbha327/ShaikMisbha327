@@ -1,5 +1,3 @@
-<img src="https://github.com/ShaikMisbha327/ShaikMisbha327/blob/main/banner.png?raw=true" alt="GitHub Banner" style="width:100%;" />
-
 
 
 💠 **Assalamu Alaikum (Peace be upon you), I'm Shaik Misbha!**
