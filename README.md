@@ -1,4 +1,4 @@
-<img src="https://github.com/ShaikMisbha327/ShaikMisbha327/blob/main/banner.png" alt="Shaik Misbha Banner" style="width:100%;"/>
+<img src="https://www.canva.com/design/DAGuShWW3zI/TLWx5aDU1uedXADopkosYg/view" alt="Shaik Misbha Banner" style="width:100%;"/>
 
 
 💠 **Assalamu Alaikum (Peace be upon you), I'm Shaik Misbha!**
