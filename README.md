@@ -1,4 +1,4 @@
-<img src="https://readme-hero.vercel.app/api?username=ShaikMisbha327&text=Shaik%20Misbha%20-%20Full%20Stack%20Developer&bg=gradient" alt="GitHub Banner" />
+<img src="https://your-uploaded-image-url.com/banner.png" alt="Shaik Misbha Banner" />
 
 💠 **Assalamu Alaikum (Peace be upon you), I'm Shaik Misbha!**
 
