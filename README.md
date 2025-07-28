@@ -34,7 +34,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMisbha327&layout=compact&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaikMisbha327&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ShaikMisbha327&theme=dark)
+
 
 ---
 
