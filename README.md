@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum, I'm Shaik Misbha</h1>
+<h1 align="center">Assalamu Alaikum(Peace be upon you), I'm Shaik Misbha</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=B.Sc+graduate+with+a+passion+for+Web+Development;Exploring+Frontend+and+Backend+Technologies;Focused+on+growth+and+learning" alt="Typing Animation" />
@@ -14,27 +14,27 @@
 
 - 🎓 B.Sc graduate (2024) with a passion for web development  
 - 💻 Strong interest in frontend technologies and clean UI design  
-- 🛠️ Enjoy building responsive websites and continuously improving my coding skills  
-- 🧠 Also exploring backend tools like Node.js and PostgreSQL  
+- 🛠️ Enjoy building responsive websites and continuously improving my coding skills   
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React (learning)  
-- **Backend**: Node.js, Express.js  
-- **Database**: PostgreSQL  
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS 
+- **Backend**: Node.js, Express.js,MongoDB
+- **Database**: PostgreSQL, SQL
+- **Languages**: Python (basic DSA) 
 - **Tools**: Git, GitHub  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikMisbha327&show_icons=true&theme=default)
+![ShaikMisbha327's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikMisbha327&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMisbha327&layout=compact&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShaikMisbha327&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaikMisbha327&theme=radical)
 
 ---
 
@@ -56,7 +56,7 @@ Every line of code I write is a step closer to my dream as a developer.
 ## 📬 Contact
 
 - GitHub: [ShaikMisbha327](https://github.com/ShaikMisbha327)  
-- LinkedIn: [Add your LinkedIn link here]
+- LinkedIn: https://www.linkedin.com/in/shaik-misbha-92a970304/
 
 ---
 
