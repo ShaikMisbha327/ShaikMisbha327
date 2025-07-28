@@ -34,7 +34,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMisbha327&layout=compact&theme=default)
 
-<img src="https://streak-stats.demolab.com?user=ShaikMisbha327&theme=dark&hide_border=false" alt="Shaik Misbha's GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=ShaikMisbha327&theme=dark)
 
 
 ---
