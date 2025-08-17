@@ -1,10 +1,6 @@
 <h1 align="center">Assalamu Alaikum(Peace be upon you), I'm Shaik Misbha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=B.Sc+graduate+with+a+passion+for+Web+Development;Exploring+Frontend+and+Backend+Technologies;Focused+on+growth+and+learning" alt="Typing Animation" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D91&height=160&section=header&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=ffffff&fontSize=28" />
 </p>
 
