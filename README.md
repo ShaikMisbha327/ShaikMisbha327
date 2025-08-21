@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum(Peace be upon you), I'm Shaik Misbha</h1>
+<h1 align="center">👋 Hi there, Assalamu Alaikum (Peace be upon you)! I'm Shaik Misbha</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D91&height=160&section=header&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=ffffff&fontSize=28" />
