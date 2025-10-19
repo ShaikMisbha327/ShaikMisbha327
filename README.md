@@ -17,11 +17,10 @@
 ## 💻 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS 
-- **Backend**: Node.js, Express.js,MongoDB
-- **Database**: PostgreSQL, SQL
+- **Database**: SQL
 - **Languages**: Python (basic DSA) 
-- **Tools**: Git, GitHub  
-
+- **Tools**: Git, GitHub
+  
 ---
 
 ## 📊 GitHub Stats
