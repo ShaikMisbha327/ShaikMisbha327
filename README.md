@@ -60,19 +60,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-Misbha&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-Misbha&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&cache_seconds=1800" width="420"/>
 </p>
 
----
-
-## 📈 Contribution Graph
-
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Misbha&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Misbha&theme=react-dark&area=true&hide_border=true&cache_seconds=1800"/>
 </p>
+
 
 ---
 
