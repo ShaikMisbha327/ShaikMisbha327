@@ -14,8 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380" />
-</p>>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="380" alt="coding-gif" />
+</p>
+
 
 
 
