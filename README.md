@@ -19,17 +19,18 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 
-- 👩‍💻 **Front-End Developer** with backend basics  
-- 🎓 **B.Sc Graduate (2024)**  
-- ⚛️ Skilled in **React.js & Modern JavaScript**
-- 🎨 Love building **clean, responsive & user-friendly UIs**
-- 🌱 Currently improving **Full Stack Development**
-- 💡 Interested in **Web Development & Tech Growth**
-- 🤝 Open to **learning, collaboration & internships**
+- 👩‍💻 **Front-End Developer** with a strong foundation in web basics  
+- 🎓 **B.Sc Graduate** with a passion for technology  
+- ⚛️ Experienced in **React.js and modern JavaScript**
+- 🎨 Focused on creating **clean, responsive, and user-friendly interfaces**
+- 🌱 Continuously learning and growing in **Full Stack Development**
+- 💡 Curious about **web technologies and real-world problem solving**
+- 🤝 Open to **learning opportunities, collaboration, and internships**
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -78,15 +79,18 @@
 ## 🤍 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <!-- Gmail -->
+  <a href="mailto:smisbha327@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff8aa1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shaik-misbha-92a970304/">
     <img src="https://img.shields.io/badge/LinkedIn-ff8aa1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Shaik-Misbha">
+  <!-- GitHub -->
+  <a href="https://github.com/ShaikMisbha327">
     <img src="https://img.shields.io/badge/GitHub-ff8aa1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
