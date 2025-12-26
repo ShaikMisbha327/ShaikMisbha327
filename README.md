@@ -4,11 +4,16 @@
   Hi, I'm <span style="color:#ff8aa1;">Shaik Misbha</span> 👋
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Frontend+Developer" alt="Typing SVG" />
-</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dua-Fatima-khan&label=Profile%20Views&color=f78da7&style=flat" alt="profile-views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&width=650&lines=Front-End+Developer;Full+Stack+Web+Learner;React+%7C+Next.js+Enthusiast;UI+Focused+Web+Developer;Passionate+About+Clean+Code+%26+Design" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaik-Misbha&label=Profile%20Views&color=ff8aa1&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380" />
 </p>
 
 
