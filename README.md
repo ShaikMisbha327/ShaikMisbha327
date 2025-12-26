@@ -4,7 +4,6 @@
   Hi, I'm <span style="color:#ff8aa1;">Shaik Misbha</span> 👋
 </h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&width=650&lines=Front-End+Developer;Full+Stack+Web+Learner;React+%7C+Next.js+Enthusiast;UI+Focused+Web+Developer;Passionate+About+Clean+Code+%26+Design" />
 </p>
@@ -14,11 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8FNQ4TJyWXKpCrBn8S/giphy.gif" width="380" alt="developer-coding-laptop" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="developer-laptop-coding" />
 </p>
-
-
-
 
 ---
 
@@ -37,13 +33,14 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,github,vercel,vscode,figma,wordpress,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git,github,vscode,python" />
 </p>
 
 ---
 
 ## 💖 Fun Fact
-> 🌷 I debug my code more patiently than people 🌷
+> Every line of code I write brings me one step closer to becoming a skilled web developer
+
 
 ---
 
@@ -64,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-Misbha&show_icons=true&theme=rose_pine&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaik-Misbha&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" width="420"/>
 </p>
 
 ---
@@ -72,7 +69,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Misbha&theme=rose&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Misbha&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
