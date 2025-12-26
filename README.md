@@ -4,6 +4,7 @@
   Hi, I'm <span style="color:#ff8aa1;">Shaik Misbha</span> 👋
 </h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&width=650&lines=Front-End+Developer;Full+Stack+Web+Learner;React+%7C+Next.js+Enthusiast;UI+Focused+Web+Developer;Passionate+About+Clean+Code+%26+Design" />
 </p>
@@ -14,7 +15,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380" />
-</p>
+</p>>
 
 
 
