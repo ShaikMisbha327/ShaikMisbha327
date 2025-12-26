@@ -5,14 +5,14 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Building+Scalable+WebApps+with+Next.js;Full+Stack+Web+Developer;UI+%26+Graphic+Designer;Founder+of+IlmCode;Passionate+Learner+of+AI;Web+3.0;BSCS+Undergraduate;+Tech+Educator;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Frontend+Developer" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dua-Fatima-khan&label=Profile%20Views&color=f78da7&style=flat" alt="profile-views" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
-</p>
+
+
+
 
 ---
 
